@@ -1,15 +1,6 @@
-<html>
+﻿<html>
 <head>
-  <title>Evernote Export</title>
-  <basefont face="Tahoma" size="2" />
-  <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-  <meta name="exporter-version" content="Evernote Windows/273586; Windows/6.1.7601 Service Pack 1;"/>
-  <style>
-    body, td {
-      font-family: Tahoma;
-      font-size: 10pt;
-    }
-  </style>
+  <title>书籍分类大纲</title>
 </head>
 <body>
 <a name="1252"/>
