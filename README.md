@@ -22,4 +22,8 @@ http://pan.baidu.com/s/1kT7Qltt<br>
 http://pan.baidu.com/s/1c0iwdva<br>
 
 8.iBatis In Action<br>
-http://pan.baidu.com/s/1eQqz1Xg<br> 
+http://pan.baidu.com/s/1eQqz1Xg<br>
+
+9.The Pragmatic Programmer<br>
+http://pan.baidu.com/s/1c0Gmaly<br>
+
